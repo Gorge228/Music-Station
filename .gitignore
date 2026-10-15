@@ -1,0 +1,19 @@
+# Виртуальное окружение
+venv/
+env/
+.env
+
+# Логи и локальные настройки пользователя (чтобы не затирать настройки других людей)
+logs/
+settings.txt
+
+# Кэш Python и среды разработки
+__pycache__/
+*.py[cod]
+*$py.class
+.idea/
+.vscode/
+
+# Системные файлы macOS / Windows
+.DS_Store
+Thumbs.db
